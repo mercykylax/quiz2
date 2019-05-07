@@ -1,15 +1,15 @@
-def tens
+def tens():
    a=(1,2,3,4,5,6,7,8,9)
-    c=list(a*10)  
-    for x in a
-    print (x)
+   c=list(a*10)  
+   for x in a
+   print (x)
 
 
     
 for i in list (2,4,6,8,10,12)
 print(x)
 
-def squares
+def squares():
 a= [] squares in list (2,4,6,8,10,12):
 squares.append(x**2)
 
@@ -24,16 +24,19 @@ def k(p):
  for p in range(0,f(n-1)):
  return p*y(n) + p*f(n-1) + p*f(n)
 
-def largest
-largest([1,3,6,8,2,4,5.7])
-print(max(largest)) 
+def largest():
+  max([1,3,6,8,2,4,5.7])
+  print(max(8)) 
 
-def smallest
-smallest([1,3,6,8,2,4,5.7])
-print(min(smallest))
+def smallest():
+  min([1,3,6,8,2,4,5.7])
+  print(min(1))
 
-def my_modulus
-    for i in range (10,20)
+def my_modulus():
+   e=dict()
+   for x in range(10,20):
+      e[x]=%3
+      print(e)
     
 
 
